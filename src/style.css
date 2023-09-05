@@ -1,0 +1,12 @@
+body, h3, p{
+    margin: 0;
+}
+.content{
+    margin-top: 50px;
+    width: 60vw;
+    margin: auto;
+    text-align: center;
+}
+.main{
+    margin-top: 50px;
+}
